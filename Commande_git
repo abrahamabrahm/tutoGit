@@ -1,0 +1,26 @@
+git init : La commande git init crée un nouveau dépôt Git
+
+git add :  la première commande d'une chaîne d'opérations qui indique à Git d'« enregistrer » un instantané de l'état actuel du projet dans l'historique des commits
+git add .
+git add * .html
+
+git status: La commande git status affiche l'état du répertoire de travail et de la zone de staging.
+
+git rm -- cached nom_du_fichier
+
+git commit: Les commits peuvent être considérés comme des instantanés ou des étapes importantes dans la chronologie d'un projet Git. Ils sont créés grâce à la commande git commit pour capturer l'état d'un projet à un point dans le temps. Les instantanés Git sont toujours commités dans le dépôt local.
+
+
+git checkout -- . : retour en arriere , changer de branche
+
+touch .gitignore : tous les fichiers que nous mettons dedans seront ignorés
+
+git branch : créer une branche
+
+git branch --list
+
+git merge nom_de__la branche
+
+
+
+
